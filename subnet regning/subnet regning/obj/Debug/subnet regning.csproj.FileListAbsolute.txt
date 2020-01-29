@@ -1,0 +1,7 @@
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\obj\Debug\subnet regning.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\obj\Debug\subnet regning.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\bin\Debug\subnet regning.exe.config
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\bin\Debug\subnet regning.exe
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\bin\Debug\subnet regning.pdb
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\obj\Debug\subnet regning.exe
+C:\Users\kasp609g\source\repos\subnet regning\subnet regning\obj\Debug\subnet regning.pdb

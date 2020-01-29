@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker", "Clicker\Clicker.csproj", "{0EEEAB8D-DE7C-40D2-BD1E-834C6285635A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CocioInstall", "Setup2\Setup2.vdproj", "{4F42ECAC-B09E-4F20-8066-115B81EFCB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEEAB8D-DE7C-40D2-BD1E-834C6285635A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEEAB8D-DE7C-40D2-BD1E-834C6285635A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0EEEAB8D-DE7C-40D2-BD1E-834C6285635A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEEAB8D-DE7C-40D2-BD1E-834C6285635A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F42ECAC-B09E-4F20-8066-115B81EFCB91}.Debug|Any CPU.ActiveCfg = Release
+		{4F42ECAC-B09E-4F20-8066-115B81EFCB91}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6A499D-A07E-4C29-88DE-7F81DB5ECB6B}
+	EndGlobalSection
+EndGlobal

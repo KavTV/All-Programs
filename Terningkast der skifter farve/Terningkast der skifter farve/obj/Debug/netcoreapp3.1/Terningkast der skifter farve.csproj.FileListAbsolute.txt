@@ -1,0 +1,10 @@
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\bin\Debug\netcoreapp3.1\Terningkast der skifter farve.exe
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\bin\Debug\netcoreapp3.1\Terningkast der skifter farve.deps.json
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\bin\Debug\netcoreapp3.1\Terningkast der skifter farve.runtimeconfig.json
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\bin\Debug\netcoreapp3.1\Terningkast der skifter farve.runtimeconfig.dev.json
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\bin\Debug\netcoreapp3.1\Terningkast der skifter farve.dll
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\bin\Debug\netcoreapp3.1\Terningkast der skifter farve.pdb
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\obj\Debug\netcoreapp3.1\Terningkast der skifter farve.AssemblyInfoInputs.cache
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\obj\Debug\netcoreapp3.1\Terningkast der skifter farve.AssemblyInfo.cs
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\obj\Debug\netcoreapp3.1\Terningkast der skifter farve.dll
+C:\Users\kasp609g\source\repos\Terningkast der skifter farve\Terningkast der skifter farve\obj\Debug\netcoreapp3.1\Terningkast der skifter farve.pdb

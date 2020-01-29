@@ -1,0 +1,11 @@
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\bin\Debug\netcoreapp2.1\Read Write Line by Line.deps.json
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\bin\Debug\netcoreapp2.1\Read Write Line by Line.runtimeconfig.json
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\bin\Debug\netcoreapp2.1\Read Write Line by Line.runtimeconfig.dev.json
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\bin\Debug\netcoreapp2.1\Read Write Line by Line.dll
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\bin\Debug\netcoreapp2.1\Read Write Line by Line.pdb
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\obj\Debug\netcoreapp2.1\Read Write Line by Line.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\obj\Debug\netcoreapp2.1\Read Write Line by Line.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\obj\Debug\netcoreapp2.1\Read Write Line by Line.AssemblyInfoInputs.cache
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\obj\Debug\netcoreapp2.1\Read Write Line by Line.AssemblyInfo.cs
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\obj\Debug\netcoreapp2.1\Read Write Line by Line.dll
+C:\Users\kasp609g\source\repos\Read Write Line by Line\Read Write Line by Line\obj\Debug\netcoreapp2.1\Read Write Line by Line.pdb

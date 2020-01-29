@@ -1,0 +1,15 @@
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\MainWindow.g.cs
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\App.g.cs
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister_MarkupCompile.cache
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister_MarkupCompile.lref
+C:\Users\kasp609g\source\repos\Lister\Lister\bin\Debug\Lister.exe.config
+C:\Users\kasp609g\source\repos\Lister\Lister\bin\Debug\Lister.exe
+C:\Users\kasp609g\source\repos\Lister\Lister\bin\Debug\Lister.pdb
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\MainWindow.baml
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.g.resources
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.Properties.Resources.resources
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.csproj.GenerateResource.cache
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.exe
+C:\Users\kasp609g\source\repos\Lister\Lister\obj\Debug\Lister.pdb

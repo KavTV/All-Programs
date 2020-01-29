@@ -1,0 +1,22 @@
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\Subnetteren over alle subnettere.exe.config
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\Subnetteren over alle subnettere.exe
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\Subnetteren over alle subnettere.pdb
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\MaterialDesignColors.dll
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\MaterialDesignColors.pdb
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\MainWindow.g.cs
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\App.g.cs
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere_MarkupCompile.cache
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere_MarkupCompile.lref
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\App.baml
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\MainWindow.baml
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.g.resources
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren_over_alle_subnettere.Properties.Resources.resources
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.csproj.GenerateResource.cache
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.csproj.CopyComplete
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.exe
+C:\Users\kasp609g\source\repos\Subnetteren over alle subnettere nu med cocio\Subnetteren over alle subnettere\obj\Release\Subnetteren over alle subnettere.pdb

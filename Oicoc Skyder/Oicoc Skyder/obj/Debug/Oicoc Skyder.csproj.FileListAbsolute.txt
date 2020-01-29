@@ -1,0 +1,19 @@
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\bin\Debug\Oicoc Skyder.exe.config
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\bin\Debug\Oicoc Skyder.exe
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\bin\Debug\Oicoc Skyder.pdb
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\MainWindow.g.cs
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\App.g.cs
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder_MarkupCompile.cache
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder_MarkupCompile.lref
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\MainWindow.baml
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder.g.resources
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc_Skyder.Properties.Resources.resources
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder.csproj.GenerateResource.cache
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder.exe
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Oicoc Skyder.pdb
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Menu.g.cs
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Menu.baml
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Help.g.cs
+C:\Users\kasp609g\source\repos\Oicoc Skyder\Oicoc Skyder\obj\Debug\Help.baml

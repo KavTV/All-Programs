@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oicoc Skyder", "Oicoc Skyder\Oicoc Skyder.csproj", "{A43D771B-B7AF-4200-920E-1A2FFEECECBC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OicocSkyderWizard", "OicocSkyderWizard\OicocSkyderWizard.vdproj", "{5EACCF10-E761-42BE-8707-A3DFF39A4D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43D771B-B7AF-4200-920E-1A2FFEECECBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43D771B-B7AF-4200-920E-1A2FFEECECBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43D771B-B7AF-4200-920E-1A2FFEECECBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43D771B-B7AF-4200-920E-1A2FFEECECBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EACCF10-E761-42BE-8707-A3DFF39A4D9A}.Debug|Any CPU.ActiveCfg = Debug
+		{5EACCF10-E761-42BE-8707-A3DFF39A4D9A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F029C4-6BD8-4880-A13F-2C65EE94899E}
+	EndGlobalSection
+EndGlobal

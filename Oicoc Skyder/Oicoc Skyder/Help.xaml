@@ -1,0 +1,20 @@
+﻿<Window x:Class="Oicoc_Skyder.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oicoc_Skyder"
+        mc:Ignorable="d"
+        Title="Help" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid x:Name="canvas">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FFB14949"/>
+                <GradientStop Color="#FFD91111" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="MenuBtn" Content="Menu" HorizontalAlignment="Left" Margin="93,346,0,0" VerticalAlignment="Top" Width="79" Click="MenuBtn_Click" Height="30" Background="#FFF7E3E3" BorderBrush="Red"/>
+        <TextBlock HorizontalAlignment="Left" Margin="93,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="255" Width="532" FontSize="20"><Run Text="Spillet"/><Run Text=" går ud på at du"/><Run Text=" får 1 minut til at"/><Run Text=" skyde alle de flasker der popper op på skærmen"/><Run Text=" så hurtigt du kan."/><LineBreak/><Run/><LineBreak/><Run Text="-1 "/><Run Text="Hvis du skyder forbi&#x9;"/><LineBreak/><Run Text="+1 "/><Run Text="Hvis du rammer flasken"/><LineBreak/><LineBreak/><Run Text="Du kan trykke ESC for at stoppe timeren."/></TextBlock>
+    </Grid>
+
+</Window>

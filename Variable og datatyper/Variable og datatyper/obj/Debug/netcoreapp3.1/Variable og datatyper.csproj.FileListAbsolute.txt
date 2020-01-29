@@ -1,0 +1,11 @@
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\bin\Debug\netcoreapp3.1\Variable og datatyper.exe
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\bin\Debug\netcoreapp3.1\Variable og datatyper.deps.json
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\bin\Debug\netcoreapp3.1\Variable og datatyper.runtimeconfig.json
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\bin\Debug\netcoreapp3.1\Variable og datatyper.runtimeconfig.dev.json
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\bin\Debug\netcoreapp3.1\Variable og datatyper.dll
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\bin\Debug\netcoreapp3.1\Variable og datatyper.pdb
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\obj\Debug\netcoreapp3.1\Variable og datatyper.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\obj\Debug\netcoreapp3.1\Variable og datatyper.AssemblyInfoInputs.cache
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\obj\Debug\netcoreapp3.1\Variable og datatyper.AssemblyInfo.cs
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\obj\Debug\netcoreapp3.1\Variable og datatyper.dll
+C:\Users\kasp609g\source\repos\Variable og datatyper\Variable og datatyper\obj\Debug\netcoreapp3.1\Variable og datatyper.pdb

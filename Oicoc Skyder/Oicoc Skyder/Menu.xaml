@@ -1,0 +1,47 @@
+﻿<Window x:Class="Oicoc_Skyder.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oicoc_Skyder"
+        mc:Ignorable="d"
+        Title="Menu" Height="399.757" Width="238.592" ResizeMode="NoResize">
+    <Grid HorizontalAlignment="Left" Width="232" Height="370" VerticalAlignment="Top">
+        <Grid.Background>
+            <ImageBrush ImageSource="Oicoc_logo.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Button x:Name="NemtButton" Content="Nemt" Margin="43,124,0,0" Click="NemtButton_Click" FontSize="16" Foreground="White" Height="32" VerticalAlignment="Top" HorizontalAlignment="Left" Width="152">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF974D4D"/>
+                    <GradientStop Color="#FFCB2530" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="MediumButton" Content="Lidt svært" Margin="43,175,0,0" Click="MediumButton_Click" FontSize="16" Foreground="White" Height="32" VerticalAlignment="Top" HorizontalAlignment="Left" Width="152">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF974D4D" Offset="0.092"/>
+                    <GradientStop Color="#FFCB2530" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="HardButton" Content="Faktisk svært" Margin="43,225,0,0" Click="HardButton_Click" FontSize="16" Foreground="White" Height="32" VerticalAlignment="Top" HorizontalAlignment="Left" Width="152">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF974D4D" Offset="0"/>
+                    <GradientStop Color="#FFCB2530" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="HelpBtn" Content="Hvad gør jeg?" Margin="43,51,0,0" Click="Help_Click" FontSize="16" Foreground="White" Height="32" VerticalAlignment="Top" HorizontalAlignment="Left" Width="152">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF974D4D" Offset="0"/>
+                    <GradientStop Color="#FFCB2530" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

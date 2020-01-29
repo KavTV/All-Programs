@@ -1,0 +1,16 @@
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\GameCatcher.exe.config
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\GameCatcher.exe
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\GameCatcher.pdb
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\obj\Debug\GameCatcher.csproj.App.config
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\obj\Debug\GameCatcher.csprojAssemblyReference.cache
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\obj\Debug\GameCatcher.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\obj\Debug\GameCatcher.csproj.CopyComplete
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\obj\Debug\GameCatcher.exe
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\obj\Debug\GameCatcher.pdb
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kasp609g\source\repos\GameCatcher\GameCatcher\bin\Debug\HtmlAgilityPack.xml

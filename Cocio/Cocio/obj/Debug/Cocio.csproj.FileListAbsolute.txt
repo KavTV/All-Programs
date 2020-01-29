@@ -1,0 +1,189 @@
+C:\Users\kaspe\source\repos\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\kaspe\source\repos\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\kaspe\source\repos\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\kaspe\source\repos\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\kaspe\source\repos\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\kaspe\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kasper\source\repos\Cocio\Cocio\obj\Debug\App.baml
+C:\Users\Kasper\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\MaterialDesignColors.dll
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kaspe\Downloads\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\App.baml
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\kaspe\Downloads\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\MaterialDesignColors.dll
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kaspe\Desktop\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\App.baml
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\CocioXCola.g.cs
+C:\Users\kaspe\Desktop\Cocio\Cocio\obj\Debug\CocioXCola.baml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignColors.dll
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\CocioXCola.g.cs
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\App.baml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\CocioXCola.baml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.Images.Resource1.resources
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\MaterialDesignColors.dll
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\MaterialDesignColors.pdb
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\CocioXCola.g.cs
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\App.baml
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\CocioXCola.baml
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.Images.Resource1.resources
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.Resource1.resources
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.csproj.CoreCompileInputs.cache
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\phil3607\Downloads\Cocio\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\CocioXCola.g.cs
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\LoadingScreen.g.cs
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\MainWindow.g.cs
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\App.g.cs
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.cache
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio_MarkupCompile.lref
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.exe
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.pdb
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\App.baml
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\CocioXCola.baml
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\LoadingScreen.baml
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\MainWindow.baml
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.g.resources
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\Cocio.exe.config
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\Cocio.exe
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\Cocio.pdb
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\MaterialDesignColors.dll
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\WpfAnimatedGif.dll
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\MaterialDesignColors.pdb
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\bin\Debug\WpfAnimatedGif.xml
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.Images.Resource1.resources
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.Properties.Resources.resources
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.Resource1.resources
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.csproj.GenerateResource.cache
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.csproj.CoreCompileInputs.cache
+C:\Users\kasp609g\OneDrive - EFIF\KaPhlap\Programmer\Cocio\Cocio\obj\Debug\Cocio.csproj.CopyComplete
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.Resource1.resources
+C:\Users\kasp609g\source\repos\Cocio\Cocio\obj\Debug\Cocio.csprojAssemblyReference.cache

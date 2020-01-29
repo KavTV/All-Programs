@@ -1,0 +1,117 @@
+﻿<Window x:Class="GrafiskKaffekopDerVirker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GrafiskKaffekopDerVirker"
+        
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+   
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Cocio Drikkeren" Height="668.304" Width="1050.266" 
+        Icon="Images/CocioKapsel.ico">
+    <Grid>
+
+        <Button x:Name="CocioColaKnap" Content="Cocio Cola" HorizontalAlignment="Left" Margin="708,283,0,0" VerticalAlignment="Top" Width="126" Height="53" BorderBrush="#FFFFBE01" Click="CocioColaClick">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFBE01" Offset="0.367"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="KaspersKnap" Content="Cocio Dark" HorizontalAlignment="Left" Margin="708,365,0,0" VerticalAlignment="Top" Width="126" Height="53" Click="Button_Click" Background="#FFFFBE01" BorderBrush="#FFFFBE01"/>
+        <Button x:Name="Drik" Content="Drik Cocio" Height="56" Click="Drik_Click" Margin="29,362,0,0" HorizontalAlignment="Left" Width="126" VerticalAlignment="Top" Background="#FFFFBE01" BorderBrush="{x:Null}"/>
+        <Image x:Name="BundMund1Image" Height="170"  Width="170" Source="Images/TopMund2.png" Margin="207,452,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" MouseDown="BundMund1Image_MouseDown"/>
+        <Button x:Name="MinStartKnap" Content="Fyld Cocio op" HorizontalAlignment="Left" Margin="29,283,0,0" VerticalAlignment="Top" Width="126" Height="56" Click="MinStartKnap_Click" Background="#FFFFBE01" BorderBrush="{x:Null}"/>
+        <Canvas x:Name="DobbeltDrej" RenderTransformOrigin="0.5,0.5" Margin="-2,124,0,0" HorizontalAlignment="Left" Width="792" Height="419" VerticalAlignment="Top">
+            <Canvas.LayoutTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Canvas.LayoutTransform>
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="50"/>
+                </TransformGroup>
+            </Canvas.RenderTransform>
+
+            <Rectangle x:Name="OmvendtFyld" Fill="#ffa06e45" Height="0" Canvas.Left="341" Canvas.Top="88" Width="98" RenderTransformOrigin="0.5,0.5"/>
+
+            <Rectangle x:Name="fyldet1" Fill="#FFA06E45" Height="0" Canvas.Left="365" Width="51" RenderTransformOrigin="0.5,0.5" Canvas.Top="2">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+
+            <Rectangle x:Name="fyldet2" Fill="#ffa06e45" HorizontalAlignment="Left" Height="0" VerticalAlignment="Bottom" Width="98" RenderTransformOrigin="0.5,0" Canvas.Left="341" Canvas.Top="312">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-180"/>
+                        <TranslateTransform X="0.618943" Y="90.9958"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+
+            </Rectangle>
+            <Image x:Name="cocioimg" HorizontalAlignment="Center" Height="429" Margin="163,-19,0,9" VerticalAlignment="Bottom" Width="456" Source="/Cocio;component/Images/cociogennemsigtigv4.png" RenderTransformOrigin="0.5,0.5">
+                <Image.LayoutTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform X="-67"/>
+                    </TransformGroup>
+                </Image.LayoutTransform>
+            </Image>
+            <Rectangle x:Name="SidsteFyld" Height="0" Canvas.Left="196" Canvas.Top="47" Width="44" RenderTransformOrigin="0.5,0" Fill="#FFA06E45">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-90"/>
+                        <TranslateTransform X="15.4988" Y="15.3079"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Rectangle x:Name="FyldHæld" Fill="#ffa06e45" HorizontalAlignment="Left" Height="0" VerticalAlignment="Top" Width="44" Grid.ColumnSpan="2" Grid.Column="1" RenderTransformOrigin="0.5,0" Canvas.Left="392" Canvas.Top="62">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+
+        </Canvas>
+        <Image x:Name="CocioKoImage" Height="466" Canvas.Left="99" Canvas.Top="-232" Width="473" Source="Images/CocioKo.png" Margin="128,-109,440,280" MouseDown="CocioKoImage_MouseDown">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Images/CocioKo.png"/>
+            </Image.OpacityMask>
+        </Image>
+        <Image x:Name="BundMund2Image" Height="170"  Width="170" Source="Images/BundMund2.png" Margin="207,452,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" MouseDown="BundMund2Image_MouseDown"/>
+        <Label x:Name="CocioCounter" Content="Cocio drukket: 0" HorizontalAlignment="Left" Margin="29,452,0,0" VerticalAlignment="Top" Height="115" Width="173" FontSize="16"/>
+        <TextBox x:Name="testbox" HorizontalAlignment="Left" Height="69" Margin="421,548,0,0" TextWrapping="Wrap" Text="Rasmus Bøgse røv" VerticalAlignment="Top" Width="298" TextChanged="Testbox_TextChanged"/>
+        <Image HorizontalAlignment="Left" Height="216" Margin="834,10,0,0" VerticalAlignment="Top" Width="198" Source="Images/CocioKapsel.png"/>
+    </Grid>
+</Window>

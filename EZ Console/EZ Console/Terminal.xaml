@@ -1,0 +1,61 @@
+﻿<Window x:Class="EZ_Console.Terminal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EZ_Console"
+        mc:Ignorable="d"
+        Title="Terminal" Height="450" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="411" VerticalAlignment="Top" Width="785">
+            <TabItem Header="Password">
+                <Grid Background="White">
+                    <Label HorizontalAlignment="Left" Margin="236,186,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="setPasswordBox" HorizontalAlignment="Left" Height="23" Margin="245,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFE8E4E4"/>
+                    <TextBox x:Name="setUsernameBox" HorizontalAlignment="Left" Height="23" Margin="55,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFE8E4E4"/>
+                    <Label Content="Password" HorizontalAlignment="Left" Margin="276,67,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Username" HorizontalAlignment="Left" Margin="84,67,0,0" VerticalAlignment="Top"/>
+                    <Button x:Name="setPasswordBTN" Content="Set" HorizontalAlignment="Left" Margin="290,141,0,0" VerticalAlignment="Top" Width="75" Click="setPasswordBTN_Click"/>
+                    <Label Content="Switch log in" HorizontalAlignment="Left" Margin="150,23,0,0" VerticalAlignment="Top" FontSize="20"/>
+                    <Label Content="Enable password" HorizontalAlignment="Left" Margin="133,169,0,0" VerticalAlignment="Top" FontSize="20"/>
+                    <TextBox x:Name="setSecretBox" HorizontalAlignment="Left" Height="23" Margin="152,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFE8E4E4"/>
+                    <Button x:Name="setSecretBTN" Content="Set" HorizontalAlignment="Left" Margin="171,274,0,0" VerticalAlignment="Top" Width="75" Click="setSecretBTN_Click"/>
+                    <Label x:Name="outLabel" Content="" HorizontalAlignment="Left" Margin="350,245,0,0" VerticalAlignment="Top" Width="127"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="SSH/Telnet">
+                <Grid Background="white">
+                    <Label Content="SSH" HorizontalAlignment="Left" Margin="228,10,0,0" VerticalAlignment="Top" FontSize="22"/>
+                    <TextBox x:Name="setHosnameBox" HorizontalAlignment="Left" Height="23" Margin="122,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="93" RenderTransformOrigin="0.5,0.5">
+                        <TextBox.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-0.02"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </TextBox.RenderTransform>
+                    </TextBox>
+                    <TextBox x:Name="setDomainNameBox" HorizontalAlignment="Left" Height="23" Margin="276,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Hostname" HorizontalAlignment="Left" Margin="137,53,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Ip domain name" HorizontalAlignment="Left" Margin="289,53,0,0" VerticalAlignment="Top"/>
+                    <Button x:Name="setSSBTN" Content="Set" HorizontalAlignment="Left" Margin="321,131,0,0" VerticalAlignment="Top" Width="75" Click="setSSBTN_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Andet">
+                <Grid Background="white"/>
+            </TabItem>
+        </TabControl>
+        <RichTextBox x:Name="tBoxReceivedData" HorizontalAlignment="Left" Height="343" Margin="514,32,0,0" VerticalAlignment="Top" Width="265" FontSize="10" IsReadOnly="True" Background="Black" Foreground="White">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <TextBox x:Name="tBoxSendText" HorizontalAlignment="Left" Height="25" Margin="514,375,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="265" AllowDrop="False" KeyUp="tBoxSendText_KeyUp">
+        </TextBox>
+        <TextBox x:Name="sendReturn" HorizontalAlignment="Left" Height="25" Margin="784,32,0,0" AcceptsReturn="True" TextWrapping="Wrap" VerticalAlignment="Top" Width="0" AllowDrop="False" KeyUp="tBoxSendText_KeyUp" Text="&#xD;&#xA;"/>
+
+    </Grid>
+</Window>

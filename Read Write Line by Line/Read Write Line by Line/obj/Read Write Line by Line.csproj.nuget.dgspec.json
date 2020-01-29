@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kasp609g\\source\\repos\\Read Write Line by Line\\Read Write Line by Line\\Read Write Line by Line.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kasp609g\\source\\repos\\Read Write Line by Line\\Read Write Line by Line\\Read Write Line by Line.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kasp609g\\source\\repos\\Read Write Line by Line\\Read Write Line by Line\\Read Write Line by Line.csproj",
+        "projectName": "Read Write Line by Line",
+        "projectPath": "C:\\Users\\kasp609g\\source\\repos\\Read Write Line by Line\\Read Write Line by Line\\Read Write Line by Line.csproj",
+        "packagesPath": "C:\\Users\\kasp609g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kasp609g\\source\\repos\\Read Write Line by Line\\Read Write Line by Line\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kasp609g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
